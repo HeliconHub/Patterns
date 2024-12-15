@@ -51,7 +51,7 @@ Behavioral patterns are concerned with the interaction and communication between
 5. [ ] Memento
 6. [ ] Observer
 7. [ ] State
-8. [ ] Strategy
+8. [x] [Strategy](https://github.com/HeliconHub/Patterns/tree/main/src/main/java/patterns/io/behavioral/strategy)
 9. [ ] Template Method
 10. [ ] Visitor
 
