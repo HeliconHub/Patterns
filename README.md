@@ -17,7 +17,7 @@ Design patterns are proven solutions to common software design problems.
 This repository demonstrates how these patterns are implemented in Java, with real-world examples and best practices.
 Mastering these patterns will enhance your coding skills and help you design robust applications.
 
-#### Creational Patterns 🏗️
+### Creational Patterns 🏗️
 
 Creational patterns focus on object creation mechanisms.
 These patterns ensure flexibility and reusability by controlling how objects are instantiated.
@@ -28,7 +28,7 @@ These patterns ensure flexibility and reusability by controlling how objects are
 4. [ ] Prototype
 5. [ ] Singleton
 
-#### Structural Patterns 🧱
+### Structural Patterns 🧱
 
 Structural patterns deal with the composition of classes or objects to form larger structures.
 
@@ -85,5 +85,7 @@ We welcome contributions! If you’d like to add new patterns, fix issues, or im
 
 This repository is licensed under the MIT License.
 
-**Happy coding!🎉**
 Explore, learn, and apply design patterns with confidence.
+
+
+**Happy coding!🎉**
