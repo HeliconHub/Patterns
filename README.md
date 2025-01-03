@@ -17,6 +17,11 @@ Design patterns are proven solutions to common software design problems.
 This repository demonstrates how these patterns are implemented in Java, with real-world examples and best practices.
 Mastering these patterns will enhance your coding skills and help you design robust applications.
 
+### Principles of Design Patterns 🧭
+1. Identify the aspects of your application that vary and encapsulate them so that later you can alter or extend the parts that vary without affecting those that don’t.
+2. Program to an interface, not an implementation, which means you should use a supertype wherever possible.
+3. Favor composition over inheritance, as it provides more flexibility and reusability.
+
 ### Creational Patterns 🏗️
 
 Creational patterns focus on object creation mechanisms.
